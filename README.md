@@ -1,4 +1,4 @@
-# CARDÁPIO ONLINE
+# CARDÁPIO DIGITAL
 
 ## 📝Descrição
 Desenvolvimento de projeto para disciplina de Códigos de Alta Performance.
