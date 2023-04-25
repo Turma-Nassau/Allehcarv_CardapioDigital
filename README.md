@@ -63,7 +63,7 @@ Em fase de desenvolvimento.
 ```
 
 - pedido
-
+ 
 ```s
     CREATE TABLE pedido (
   id_pedido INT AUTO_INCREMENT PRIMARY KEY,
@@ -74,7 +74,7 @@ Em fase de desenvolvimento.
 );
 ```
 
--item_pedido
+- item_pedido 
 
 ```s
     CREATE TABLE item_pedido (
