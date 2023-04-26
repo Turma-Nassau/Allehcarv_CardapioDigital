@@ -18,6 +18,8 @@ Plataforma responsável pela elaboração de pedidos de clientes de forma automa
 ## 🔐Atualizações Futuras
 Sistema de envios de notificações com informações do pedido.
 
+Métodos de pagamento
+
 ## 🤝Colaboradores
 <tabela>
     <tr> 
